@@ -1,0 +1,23 @@
+{
+    "actualites": [
+      {
+        "titre": "Nouvelle découverte archéologique",
+        "date": "2024-04-18",
+        "descriptif": "Une équipe d'archéologues a mis au jour une ancienne cité perdue, révélant des artefacts fascinants et des secrets surprenants de l'histoire ancienne.",
+        "theme": "Archéologie"
+      },
+      {
+        "titre": "Annonce de résultats trimestriels",
+        "date": "2024-04-16",
+        "descriptif": "Notre entreprise annonce des résultats trimestriels solides, dépassant les attentes des analystes et affichant une croissance continue.",
+        "theme": "Finance"
+      },
+      {
+        "titre": "Nouveau livre à succès",
+        "date": "2024-04-14",
+        "descriptif": "Un nouveau roman captivant atteint le sommet des listes de best-sellers, captivant les lecteurs avec son intrigue complexe et ses personnages mémorables.",
+        "theme": "Littérature"
+      }
+    ]
+  }
+  
